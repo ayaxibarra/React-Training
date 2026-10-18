@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#3F2E1F"/>
+  <rect x="210" y="90" width="180" height="20" rx="4" fill="#C4A484"/>
+  <rect x="220" y="110" width="12" height="90" fill="#A67C52"/>
+  <rect x="368" y="110" width="12" height="90" fill="#A67C52"/>
+  <rect x="200" y="200" width="200" height="18" rx="4" fill="#C4A484"/>
+  <rect x="215" y="218" width="14" height="90" fill="#8B5E34"/>
+  <rect x="371" y="218" width="14" height="90" fill="#8B5E34"/>
+  <text x="300" y="350" text-anchor="middle" fill="#E5E7EB" font-family="sans-serif" font-size="22">Silla</text>
+</svg>
